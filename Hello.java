@@ -1,3 +1,5 @@
 public class Hello {
-    console.log("je")
+    public static void main(String[] args) {
+            System.out.println("");
+    }
 }
